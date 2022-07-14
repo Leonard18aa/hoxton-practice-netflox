@@ -1,0 +1,16 @@
+header{
+    display: inline;
+}
+header img{
+    padding-left: 20px;
+    width: 60px;
+}
+header span a{
+    padding-left: 80%;
+    text-decoration: none;
+    color: black;
+}
+
+main div{
+    display: inline-block;
+}
